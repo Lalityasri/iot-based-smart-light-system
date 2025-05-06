@@ -62,6 +62,7 @@ Power consumption is optimized as lights are used only when needed
 
 ## conclusion
 This project successfully demonstrates how IoT and embedded systems can work together to create a smart and efficient lighting solution. The integration of sensors and Wi-Fi connectivity allows for responsive and remote-controlled lighting that conserves energy and enhances user convenience. Future upgrades may include integration with voice assistants (Alexa, Google Home), scheduling features, or energy usage monitoring.
-![Screenshot (48)](https://github.com/user-attachments/assets/131a1a3c-25f3-4b5d-a596-990f134d48d4)
+![Screenshot (49)](https://github.com/user-attachments/assets/994ba764-d66c-4bd9-bf92-48b0243871e1)
+
 
 
